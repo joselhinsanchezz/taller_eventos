@@ -1,0 +1,12 @@
+#boton {
+    padding: 5px;
+    background-color: darkslategray;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: rgb(65, 109, 109);
+}
